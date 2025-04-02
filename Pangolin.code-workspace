@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../imgui_PeterCdev"
+		},
+		{
+			"path": "../matplotlib-cpp"
+		},
+		{
+			"path": "../cpp_cuda_template_project"
+		},
+		{
+			"path": "../cpp_template_project"
+		},
+		{
+			"path": "../../SLAM-repos/ORB_SLAM3_PeterCdev"
+		}
+	],
+	"settings": {}
+}
